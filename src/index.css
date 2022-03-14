@@ -16,6 +16,10 @@ code {
     margin-bottom: 30px;
 }
 
+.show{
+    display: flex;
+}
+
 .menuBar {
     display: flex;
     justify-content: flex-end;
